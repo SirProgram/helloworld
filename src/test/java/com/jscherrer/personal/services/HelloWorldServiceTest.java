@@ -1,4 +1,4 @@
-package services;
+package com.jscherrer.personal.services;
 
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
